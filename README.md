@@ -19,7 +19,7 @@ Word History: Save translated words to track your progress and review them later
 
 Clone this repository to your local machine.
 
-Run the App: Navigate to the project directory. Run the app.py file using Python: python app.py.
+Run the App: Navigate to the project directory. Inser the DeepL and ChatGPT keys in line 15 and 16. Run the app.py file using Python: python app.py.
 
 **Usage:**
 
