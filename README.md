@@ -23,7 +23,7 @@ Run the App: Navigate to the project directory. Run the app.py file using Python
 
 **Usage:**
 
-On the first page you have to select your target and native languages, proficiency level, and topic of interest (even though it already seems that languages have been set up, you have to click and choose languages, topics and level). On the second page enter words in the language you're learning and click "Translate me" to see translations. Click "Example" to see example sentences related to your chosen topic. Save translated words by clicking "Save me" for later review. Click "Word List" if you want to see all the words you've learned during your current session.
+On the first page you have to select your target and native languages, proficiency level, and topic of interest. Make sure to make a selection in every dropdown menu (target language, level, native language, topic) to make the code work (it looks like as though options are already selected on startup - this however is not the case). On the second page enter words in the language you're learning and click "Translate me" to see translations. Click "Example" to see example sentences related to your chosen topic. Save translated words by clicking "Save me" for later review. Click "Word List" if you want to see all the words you've learned during your current session.
 
 **Support**
 
